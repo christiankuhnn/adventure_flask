@@ -21,7 +21,7 @@ def hello(world: dict) -> str:
 
 
 ENCOUNTER_MONSTER = """
-<!-- Curly braces let us inject values into the string -->
+<!-- Curly braces let us inject values into the string ->
 You are in {}. You found a monster!<br>
 
 <!-- Image taken from site that generates random Corgi pictures-->
